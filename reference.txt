@@ -1,0 +1,3 @@
+[1] http://gee.cs.oswego.edu/dl/html/malloc.html
+[2] https://sourceware.org/glibc/wiki/MallocInternals
+[3] https://valgrind.org/docs/manual/
